@@ -356,6 +356,7 @@ PRODUCT_COPY_FILES += \
     vendor/motorola/montana/proprietary/lib/libadvalgcore.so:system/lib/libadvalgcore.so \
     vendor/motorola/montana/proprietary/lib/libarcsoft_beautyshot.so:system/lib/libarcsoft_beautyshot.so \
     vendor/motorola/montana/proprietary/lib/libbabysit.so:system/lib/libbabysit.so \
+    vendor/motorola/montana/proprietary/lib/libbson.so:system/lib/libbson.so \
     vendor/motorola/montana/proprietary/lib/libcamerabgprocservice.so:system/lib/libcamerabgprocservice.so \
     vendor/motorola/montana/proprietary/lib/libcce-socketjni.so:system/lib/libcce-socketjni.so \
     vendor/motorola/montana/proprietary/lib/libcom_fingerprints_service.so:system/lib/libcom_fingerprints_service.so \
