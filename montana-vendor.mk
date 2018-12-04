@@ -437,6 +437,7 @@ PRODUCT_COPY_FILES += \
     vendor/motorola/montana/proprietary/lib/modules/spidev.ko:system/lib/modules/spidev.ko \
     vendor/motorola/montana/proprietary/lib/modules/test-iosched.ko:system/lib/modules/test-iosched.ko \
     vendor/motorola/montana/proprietary/lib/modules/ufs_test.ko:system/lib/modules/ufs_test.ko \
+    vendor/motorola/montana/proprietary/lib/soundfx/libmmieffectswrapper.so:system/lib/soundfx/libmmieffectswrapper.so \
     vendor/motorola/montana/proprietary/lib/soundfx/libspeakerbundle.so:system/lib/soundfx/libspeakerbundle.so \
     vendor/motorola/montana/proprietary/vendor/bin/audioflacapp:system/vendor/bin/audioflacapp \
     vendor/motorola/montana/proprietary/vendor/bin/mm-pp-dpps:system/vendor/bin/mm-pp-dpps \
